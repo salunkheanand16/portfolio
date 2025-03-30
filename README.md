@@ -235,7 +235,7 @@ vercel --prod
 ## 📫 Contact
 
 - **Email**: [salunkheanand16@gmail.com](mailto:salunkheanand16@gmail.com)
-- **LinkedIn**: [Anand Salunkhe](https://linkedin.com/in/anand-salunkhe)
+- **LinkedIn**: [Anand Salunkhe](https://linkedin.com/in/salunkheanand16)
 - **GitHub**: [salunkheanand16](https://github.com/salunkheanand16)
 
 <hr />
