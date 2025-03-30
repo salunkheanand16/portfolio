@@ -3,7 +3,7 @@
 <div align="center">
   <h1>Anand Salunkhe | Professional Portfolio</h1>
   <p>
-    <img src="public/favicon.svg" alt="Portfolio Logo" width="100" />
+    <img src="public/logo.svg" alt="Portfolio Logo" width="100" />
   </p>
   
   <p>
