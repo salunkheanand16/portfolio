@@ -242,7 +242,7 @@ vercel --prod
 
 ## 📜 License
 
-Copyright © 2024 Anand Salunkhe. All rights reserved.
+Copyright © 2025 Anand Salunkhe. All rights reserved.
 
 <hr />
 
