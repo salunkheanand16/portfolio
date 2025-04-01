@@ -249,7 +249,7 @@ Copyright © 2024 Anand Salunkhe. All rights reserved.
 <div align="center">
   <p>Designed & Developed by Anand Salunkhe</p>
   <p>
-    <a href="https://portfolio-salunkheanand16.vercel.app" target="_blank">
+    <a href="https://portfolio-anand-salunkhe.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/View_Portfolio-5D87BF?style=flat-square" alt="View Portfolio" />
     </a>
   </p>
