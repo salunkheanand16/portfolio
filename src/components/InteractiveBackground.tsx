@@ -283,7 +283,7 @@ const InteractiveBackground = () => {
     
     // Touch position for mobile with smoothing
     const handleTouchMove = (e: TouchEvent) => {
-      e.preventDefault();
+      // e.preventDefault();
       targetMouseX = e.touches[0].clientX;
       targetMouseY = e.touches[0].clientY;
     };
@@ -403,7 +403,10 @@ const InteractiveBackground = () => {
     <canvas 
       ref={canvasRef} 
       className="fixed inset-0 z-0 opacity-60"
-      style={{ mixBlendMode: theme === 'dark' ? 'screen' : 'multiply' }}
+      style={{ 
+        mixBlendMode: theme === 'dark' ? 'screen' : 'multiply',
+        touchAction: 'none'
+      }}
     />
   );
 };
