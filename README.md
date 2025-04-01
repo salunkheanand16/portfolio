@@ -253,5 +253,5 @@ Copyright © 2024 Anand Salunkhe. All rights reserved.
       <img src="https://img.shields.io/badge/View_Portfolio-5D87BF?style=flat-square" alt="View Portfolio" />
     </a>
   </p>
-  <p>Last updated: March 30, 2024</p>
+  <p>Last updated: March 30, 2025</p>
 </div>
